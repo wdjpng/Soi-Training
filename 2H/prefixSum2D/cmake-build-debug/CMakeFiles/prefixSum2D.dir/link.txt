@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/prefixSum2D.dir/main.cpp.o  -o prefixSum2D 
