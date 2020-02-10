@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/gridpath.dir/main.cpp.o  -o gridpath 
