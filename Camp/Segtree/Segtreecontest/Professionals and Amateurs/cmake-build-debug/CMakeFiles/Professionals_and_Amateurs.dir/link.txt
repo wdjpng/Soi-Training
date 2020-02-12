@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Professionals_and_Amateurs.dir/main.cpp.o  -o Professionals_and_Amateurs 

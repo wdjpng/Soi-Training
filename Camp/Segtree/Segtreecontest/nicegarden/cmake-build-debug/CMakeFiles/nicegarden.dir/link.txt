@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/nicegarden.dir/main.cpp.o  -o nicegarden 

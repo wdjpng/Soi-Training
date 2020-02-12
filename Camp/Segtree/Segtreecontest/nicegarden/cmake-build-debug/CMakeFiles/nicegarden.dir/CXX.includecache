@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wdjpng/soi/Camp/Segtree/Segtreecontest/nicegarden/main.cpp
+iostream
+-
+vector
+-
+deque
+-
+algorithm
+-
+cmath
+-
+

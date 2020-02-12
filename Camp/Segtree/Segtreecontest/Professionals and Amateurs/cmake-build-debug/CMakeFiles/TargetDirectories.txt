@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Camp/Segtree/Segtreecontest/Professionals and Amateurs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Camp/Segtree/Segtreecontest/Professionals and Amateurs/cmake-build-debug/CMakeFiles/Professionals_and_Amateurs.dir
+/home/wdjpng/soi/Camp/Segtree/Segtreecontest/Professionals and Amateurs/cmake-build-debug/CMakeFiles/edit_cache.dir
