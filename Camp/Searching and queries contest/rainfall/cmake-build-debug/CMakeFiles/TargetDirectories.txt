@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Camp/Searching and queries contest/rainfall/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wdjpng/soi/Camp/Searching and queries contest/rainfall/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Camp/Searching and queries contest/rainfall/cmake-build-debug/CMakeFiles/rainfall.dir
