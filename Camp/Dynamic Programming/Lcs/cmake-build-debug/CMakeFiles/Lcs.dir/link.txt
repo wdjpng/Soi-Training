@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lcs.dir/main.cpp.o  -o Lcs 
