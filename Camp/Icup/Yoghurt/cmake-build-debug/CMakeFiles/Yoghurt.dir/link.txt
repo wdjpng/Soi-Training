@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Yoghurt.dir/main.cpp.o  -o Yoghurt 
