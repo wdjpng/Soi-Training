@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Moving.dir/main.cpp.o  -o Moving 
