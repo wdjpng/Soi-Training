@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Twobags.dir/main.cpp.o  -o Twobags 
