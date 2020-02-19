@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Manure.dir/main.cpp.o  -o Manure 

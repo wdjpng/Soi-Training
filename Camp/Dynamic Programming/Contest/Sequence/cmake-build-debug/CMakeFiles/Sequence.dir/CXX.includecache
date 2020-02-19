@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wdjpng/soi/Camp/Dynamic Programming/Contest/Sequence/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+limits
+-
+math.h
+-
+algorithm
+-
+

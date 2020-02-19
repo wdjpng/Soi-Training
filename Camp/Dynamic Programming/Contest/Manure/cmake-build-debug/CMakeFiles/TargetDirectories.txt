@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Camp/Dynamic Programming/Contest/Manure/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Camp/Dynamic Programming/Contest/Manure/cmake-build-debug/CMakeFiles/Manure.dir
+/home/wdjpng/soi/Camp/Dynamic Programming/Contest/Manure/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wdjpng/soi/Camp/Dynamic Programming/Contest/Manure/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+limits
+-
+map
+-
+math.h
+-
+algorithm
+-
+
