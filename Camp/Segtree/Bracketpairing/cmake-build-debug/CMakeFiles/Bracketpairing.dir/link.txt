@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Bracketpairing.dir/main.cpp.o  -o Bracketpairing 
