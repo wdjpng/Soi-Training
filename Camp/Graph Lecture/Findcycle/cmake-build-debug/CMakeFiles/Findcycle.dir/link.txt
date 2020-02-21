@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Findcycle.dir/main.cpp.o  -o Findcycle 
