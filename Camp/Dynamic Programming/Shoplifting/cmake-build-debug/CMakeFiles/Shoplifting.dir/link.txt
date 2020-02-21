@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Shoplifting.dir/main.cpp.o  -o Shoplifting 
