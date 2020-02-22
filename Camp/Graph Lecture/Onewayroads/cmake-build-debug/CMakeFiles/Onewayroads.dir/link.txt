@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Onewayroads.dir/main.cpp.o  -o Onewayroads 
