@@ -1,0 +1,3 @@
+/home/wdjpng/soi/2P 2020/candydistribution/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/2P 2020/candydistribution/cmake-build-debug/CMakeFiles/candydistribution.dir
+/home/wdjpng/soi/2P 2020/candydistribution/cmake-build-debug/CMakeFiles/edit_cache.dir
