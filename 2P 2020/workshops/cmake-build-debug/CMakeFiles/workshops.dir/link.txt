@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/workshops.dir/main.cpp.o  -o workshops 
