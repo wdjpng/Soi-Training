@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tollroads.dir/main.cpp.o  -o tollroads 
