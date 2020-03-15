@@ -1,0 +1,3 @@
+/home/wdjpng/soi/2P 2020/pizzacut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/2P 2020/pizzacut/cmake-build-debug/CMakeFiles/pizzacut.dir
+/home/wdjpng/soi/2P 2020/pizzacut/cmake-build-debug/CMakeFiles/edit_cache.dir
