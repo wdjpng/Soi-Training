@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Segtrees.dir/main.cpp.o  -o Segtrees 
