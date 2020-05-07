@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Anysegtree.dir/main.cpp.o  -o Anysegtree 
