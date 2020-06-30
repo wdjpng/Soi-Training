@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Camp/Dynamic Programming/Mensa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Camp/Dynamic Programming/Mensa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wdjpng/soi/Camp/Dynamic Programming/Mensa/cmake-build-debug/CMakeFiles/Mensa.dir
