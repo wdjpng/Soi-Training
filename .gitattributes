@@ -2,3 +2,6 @@ cmake* linguist-vendored
 CMake* linguist-vendored
 *.cmake linguist-vendored
 cmake-build-debug/* linguist-vendored
+Makefile linguist-vendored
+*.txt linguist-vendored
+*.make linguist-vendored
