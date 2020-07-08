@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/krypto.dir/main.cpp.o  -o krypto 

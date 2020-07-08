@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/B/Fedor and New Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/B/Fedor and New Game/cmake-build-debug/CMakeFiles/Fedor_and_New_Game.dir
+/home/wdjpng/soi/cf/Div2/B/Fedor and New Game/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Two_arrays_and_swaps.dir/main.cpp.o  -o Two_arrays_and_swaps 

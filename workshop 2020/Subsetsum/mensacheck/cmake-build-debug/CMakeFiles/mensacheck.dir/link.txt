@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mensacheck.dir/main.cpp.o  -o mensacheck 

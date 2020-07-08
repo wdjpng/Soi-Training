@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/D/Multiplication Table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/D/Multiplication Table/cmake-build-debug/CMakeFiles/Multiplication_Table.dir
+/home/wdjpng/soi/cf/Div2/D/Multiplication Table/cmake-build-debug/CMakeFiles/edit_cache.dir

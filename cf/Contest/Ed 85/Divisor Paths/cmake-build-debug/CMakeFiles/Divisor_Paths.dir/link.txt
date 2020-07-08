@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Divisor_Paths.dir/main.cpp.o  -o Divisor_Paths 

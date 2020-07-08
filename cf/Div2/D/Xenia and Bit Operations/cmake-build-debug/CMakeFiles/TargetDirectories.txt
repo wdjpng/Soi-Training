@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/D/Xenia and Bit Operations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/D/Xenia and Bit Operations/cmake-build-debug/CMakeFiles/Xenia_and_Bit_Operations.dir
+/home/wdjpng/soi/cf/Div2/D/Xenia and Bit Operations/cmake-build-debug/CMakeFiles/edit_cache.dir

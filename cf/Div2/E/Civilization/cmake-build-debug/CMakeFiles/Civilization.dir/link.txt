@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Civilization.dir/main.cpp.o  -o Civilization 

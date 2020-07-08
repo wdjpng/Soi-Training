@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Museum.dir/main.cpp.o  -o Museum 

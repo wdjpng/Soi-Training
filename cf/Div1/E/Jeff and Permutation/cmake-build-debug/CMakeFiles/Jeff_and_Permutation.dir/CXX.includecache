@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wdjpng/soi/cf/Div1/E/Jeff and Permutation/main.cpp
+iostream
+-
+vector
+-
+deque
+-
+assert.h
+-
+fstream
+-
+

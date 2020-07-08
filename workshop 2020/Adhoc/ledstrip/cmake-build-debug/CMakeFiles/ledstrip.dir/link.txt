@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ledstrip.dir/main.cpp.o  -o ledstrip 

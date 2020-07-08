@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/onetohundert.dir/main.cpp.o  -o onetohundert 

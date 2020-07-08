@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Copying_books.dir/main.cpp.o  -o Copying_books 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wdjpng/soi/workshop 2020/Dynamic Porgramming contest/valleydescent/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+limits
+-
+math.h
+-
+algorithm
+-
+

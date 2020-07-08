@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Bear_and_Prime_numbers.dir/main.cpp.o  -o Bear_and_Prime_numbers 

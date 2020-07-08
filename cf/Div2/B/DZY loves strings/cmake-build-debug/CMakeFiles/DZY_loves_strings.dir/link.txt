@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/DZY_loves_strings.dir/main.cpp.o  -o DZY_loves_strings 

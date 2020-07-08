@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Soi-Training/trisum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Soi-Training/trisum/cmake-build-debug/CMakeFiles/trisum.dir
+/home/wdjpng/soi/Soi-Training/trisum/cmake-build-debug/CMakeFiles/edit_cache.dir

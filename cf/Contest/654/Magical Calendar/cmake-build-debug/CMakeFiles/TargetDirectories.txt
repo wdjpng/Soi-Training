@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/654/Magical Calendar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/654/Magical Calendar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wdjpng/soi/cf/Contest/654/Magical Calendar/cmake-build-debug/CMakeFiles/Magical_Calendar.dir

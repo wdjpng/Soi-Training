@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/bargain.dir/main.cpp.o  -o bargain 

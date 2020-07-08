@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/loudbus.dir/main.cpp.o  -o loudbus 

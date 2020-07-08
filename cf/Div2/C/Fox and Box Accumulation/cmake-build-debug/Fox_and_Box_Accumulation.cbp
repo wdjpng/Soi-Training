@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Fox_and_Box_Accumulation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fox_and_Box_Accumulation">
+				<Option output="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/cmake-build-debug/Fox_and_Box_Accumulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fox_and_Box_Accumulation"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Fox_and_Box_Accumulation/fast">
+				<Option output="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/cmake-build-debug/Fox_and_Box_Accumulation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 Fox_and_Box_Accumulation/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Div2/C/Fox\ and\ Box\ Accumulation/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/main.cpp">
+			<Option target="Fox_and_Box_Accumulation"/>
+		</Unit>
+		<Unit filename="/home/wdjpng/soi/cf/Div2/C/Fox and Box Accumulation/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

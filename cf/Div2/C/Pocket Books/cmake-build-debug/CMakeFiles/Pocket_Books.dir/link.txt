@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pocket_Books.dir/main.cpp.o  -o Pocket_Books 

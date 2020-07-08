@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Football_Kit.dir/main.cpp.o  -o Football_Kit 

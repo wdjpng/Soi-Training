@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Soi-Training/target/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Soi-Training/target/cmake-build-debug/CMakeFiles/target.dir
+/home/wdjpng/soi/Soi-Training/target/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Old 2P/uniquecoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Old 2P/uniquecoding/cmake-build-debug/CMakeFiles/uniquecoding.dir
+/home/wdjpng/soi/Old 2P/uniquecoding/cmake-build-debug/CMakeFiles/edit_cache.dir

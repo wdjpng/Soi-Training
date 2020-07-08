@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Amr_and_Pins.dir/main.cpp.o  -o Amr_and_Pins 

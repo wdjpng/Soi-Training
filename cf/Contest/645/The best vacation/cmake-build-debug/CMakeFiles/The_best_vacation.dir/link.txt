@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/The_best_vacation.dir/main.cpp.o  -o The_best_vacation 

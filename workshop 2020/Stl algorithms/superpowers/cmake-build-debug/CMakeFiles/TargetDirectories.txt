@@ -1,0 +1,3 @@
+/home/wdjpng/soi/workshop 2020/Stl algorithms/superpowers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/workshop 2020/Stl algorithms/superpowers/cmake-build-debug/CMakeFiles/superpowers.dir
+/home/wdjpng/soi/workshop 2020/Stl algorithms/superpowers/cmake-build-debug/CMakeFiles/edit_cache.dir

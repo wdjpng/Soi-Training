@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Paperstack.dir/main.cpp.o  -o Paperstack 

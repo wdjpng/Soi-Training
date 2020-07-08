@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Magical_sticks.dir/main.cpp.o  -o Magical_sticks 

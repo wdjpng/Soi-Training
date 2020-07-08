@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/The_Useless_Toy.dir/main.cpp.o  -o The_Useless_Toy 

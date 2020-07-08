@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/multiadder.dir/main.cpp.o  -o multiadder 

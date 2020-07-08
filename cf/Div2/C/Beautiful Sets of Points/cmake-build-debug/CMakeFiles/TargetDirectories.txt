@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/C/Beautiful Sets of Points/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/C/Beautiful Sets of Points/cmake-build-debug/CMakeFiles/Beautiful_Sets_of_Points.dir
+/home/wdjpng/soi/cf/Div2/C/Beautiful Sets of Points/cmake-build-debug/CMakeFiles/edit_cache.dir

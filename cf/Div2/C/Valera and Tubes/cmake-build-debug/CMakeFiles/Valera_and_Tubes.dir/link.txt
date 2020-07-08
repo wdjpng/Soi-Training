@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Valera_and_Tubes.dir/main.cpp.o  -o Valera_and_Tubes 

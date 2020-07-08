@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Common_Divisors.dir/main.cpp.o  -o Common_Divisors 

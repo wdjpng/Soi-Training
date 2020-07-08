@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cratestacking.dir/main.cpp.o  -o cratestacking 

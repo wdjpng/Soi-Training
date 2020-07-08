@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{Wie funktioniert mein Algorithmus?}{}% 1
+\BOOKMARK [1][-]{section.2}{Argumentation, weshalb der Algorithmus korrekt ist}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Wird wirklich immer die aktuell mindeste Distanz zum Stein einer anderen Farbe genommen}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Weshalb f\374hrt das wiederhohlte w\344hlen der kleinsten Distanz zur optimalen L\366sung}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Analyse zu Laufzeit und Speichernutzung}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Laufzeit}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Speichernutzung}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Pseudocode}{}% 8

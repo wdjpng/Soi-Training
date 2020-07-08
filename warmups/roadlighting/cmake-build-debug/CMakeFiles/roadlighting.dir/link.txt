@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/roadlighting.dir/main.cpp.o  -o roadlighting 

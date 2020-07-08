@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/toiler.dir/main.cpp.o  -o toiler 

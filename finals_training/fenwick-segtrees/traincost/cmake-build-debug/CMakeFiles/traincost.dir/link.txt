@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/traincost.dir/main.cpp.o  -o traincost 

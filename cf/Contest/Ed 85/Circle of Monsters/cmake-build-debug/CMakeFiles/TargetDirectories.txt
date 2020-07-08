@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/Ed 85/Circle of Monsters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/Ed 85/Circle of Monsters/cmake-build-debug/CMakeFiles/Circle_of_Monsters.dir
+/home/wdjpng/soi/cf/Contest/Ed 85/Circle of Monsters/cmake-build-debug/CMakeFiles/edit_cache.dir

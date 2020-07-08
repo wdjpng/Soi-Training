@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Fuelstation.dir/main.cpp.o  -o Fuelstation 

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/D/Vaya and Chess/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/D/Vaya and Chess/cmake-build-debug/CMakeFiles/Vaya_and_Chess.dir
+/home/wdjpng/soi/cf/Div2/D/Vaya and Chess/cmake-build-debug/CMakeFiles/edit_cache.dir

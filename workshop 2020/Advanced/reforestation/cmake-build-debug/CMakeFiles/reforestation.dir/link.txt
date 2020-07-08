@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/reforestation.dir/main.cpp.o  -o reforestation 

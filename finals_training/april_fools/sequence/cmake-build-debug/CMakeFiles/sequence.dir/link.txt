@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sequence.dir/main.cpp.o  -o sequence 

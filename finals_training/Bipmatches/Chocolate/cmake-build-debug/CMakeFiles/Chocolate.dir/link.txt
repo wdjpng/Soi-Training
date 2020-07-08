@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Chocolate.dir/main.cpp.o  -o Chocolate 

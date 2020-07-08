@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Not_so_Simple_Polygon_EMbedding"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Not_so_Simple_Polygon_EMbedding">
+				<Option output="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/cmake-build-debug/Not_so_Simple_Polygon_EMbedding" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 Not_so_Simple_Polygon_EMbedding"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Not_so_Simple_Polygon_EMbedding/fast">
+				<Option output="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/cmake-build-debug/Not_so_Simple_Polygon_EMbedding" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/../../../../include/c++/9.3.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.3.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 Not_so_Simple_Polygon_EMbedding/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/wdjpng/soi/cf/Contest/Ed\ 87/Not\ so\ Simple\ Polygon\ EMbedding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/main.cpp">
+			<Option target="Not_so_Simple_Polygon_EMbedding"/>
+		</Unit>
+		<Unit filename="/home/wdjpng/soi/cf/Contest/Ed 87/Not so Simple Polygon EMbedding/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

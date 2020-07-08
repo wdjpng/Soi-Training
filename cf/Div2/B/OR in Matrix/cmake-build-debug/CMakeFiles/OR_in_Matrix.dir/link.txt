@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/OR_in_Matrix.dir/main.cpp.o  -o OR_in_Matrix 

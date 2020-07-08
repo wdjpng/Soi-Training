@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Minimal_square.dir/main.cpp.o  -o Minimal_square 

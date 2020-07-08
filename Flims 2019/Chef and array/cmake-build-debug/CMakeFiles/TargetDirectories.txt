@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Flims 2019/Chef and array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Flims 2019/Chef and array/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wdjpng/soi/Flims 2019/Chef and array/cmake-build-debug/CMakeFiles/Chef_and_array.dir

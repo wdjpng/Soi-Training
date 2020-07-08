@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Beautiful_Sets_of_Points.dir/main.cpp.o  -o Beautiful_Sets_of_Points 

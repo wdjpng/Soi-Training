@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/B/Sort the Array¨/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/B/Sort the Array¨/cmake-build-debug/CMakeFiles/Sort_the_Array_.dir
+/home/wdjpng/soi/cf/Div2/B/Sort the Array¨/cmake-build-debug/CMakeFiles/edit_cache.dir

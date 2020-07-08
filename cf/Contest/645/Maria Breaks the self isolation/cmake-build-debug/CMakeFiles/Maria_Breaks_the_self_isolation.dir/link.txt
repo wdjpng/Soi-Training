@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Maria_Breaks_the_self_isolation.dir/main.cpp.o  -o Maria_Breaks_the_self_isolation 

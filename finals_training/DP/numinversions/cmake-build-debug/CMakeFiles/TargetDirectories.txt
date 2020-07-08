@@ -1,0 +1,3 @@
+/home/wdjpng/soi/finals_training/DP/numinversions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/finals_training/DP/numinversions/cmake-build-debug/CMakeFiles/numinversions.dir
+/home/wdjpng/soi/finals_training/DP/numinversions/cmake-build-debug/CMakeFiles/edit_cache.dir

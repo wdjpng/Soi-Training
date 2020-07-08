@@ -1,0 +1,3 @@
+/home/wdjpng/soi/workshop 2020/Trees/halloweenparty/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/workshop 2020/Trees/halloweenparty/cmake-build-debug/CMakeFiles/halloweenparty.dir
+/home/wdjpng/soi/workshop 2020/Trees/halloweenparty/cmake-build-debug/CMakeFiles/edit_cache.dir

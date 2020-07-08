@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Vaya_and_Chess.dir/main.cpp.o  -o Vaya_and_Chess 

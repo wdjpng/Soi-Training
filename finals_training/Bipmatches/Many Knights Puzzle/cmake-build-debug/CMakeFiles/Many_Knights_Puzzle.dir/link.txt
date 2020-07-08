@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Many_Knights_Puzzle.dir/main.cpp.o  -o Many_Knights_Puzzle 

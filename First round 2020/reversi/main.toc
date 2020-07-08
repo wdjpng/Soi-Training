@@ -1,0 +1,6 @@
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Wie und weshalb funktioniert mein Algorithmus?}{1}{section.1}% 
+\contentsline {section}{\numberline {2}Analyse zu Laufzeit und Speichernutzung}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Laufzeit}{2}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Speichernutzung}{4}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}Pseudocode}{4}{section.3}% 

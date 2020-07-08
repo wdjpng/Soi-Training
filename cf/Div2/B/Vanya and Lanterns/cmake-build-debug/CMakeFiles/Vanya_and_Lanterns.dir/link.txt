@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Vanya_and_Lanterns.dir/main.cpp.o  -o Vanya_and_Lanterns 

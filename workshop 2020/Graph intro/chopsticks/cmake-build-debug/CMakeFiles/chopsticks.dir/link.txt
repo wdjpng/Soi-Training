@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/chopsticks.dir/main.cpp.o  -o chopsticks 

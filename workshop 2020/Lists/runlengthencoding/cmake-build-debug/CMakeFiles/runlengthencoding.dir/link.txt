@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/runlengthencoding.dir/main.cpp.o  -o runlengthencoding 

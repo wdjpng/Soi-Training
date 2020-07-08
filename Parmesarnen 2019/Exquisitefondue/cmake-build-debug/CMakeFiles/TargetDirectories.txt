@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Parmesarnen 2019/Exquisitefondue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Parmesarnen 2019/Exquisitefondue/cmake-build-debug/CMakeFiles/Exquisitefondue.dir
+/home/wdjpng/soi/Parmesarnen 2019/Exquisitefondue/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/Ed 87/Ternary String/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/Ed 87/Ternary String/cmake-build-debug/CMakeFiles/Ternary_String.dir
+/home/wdjpng/soi/cf/Contest/Ed 87/Ternary String/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/finals_training/fivems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/finals_training/fivems/cmake-build-debug/CMakeFiles/fivems.dir
+/home/wdjpng/soi/finals_training/fivems/cmake-build-debug/CMakeFiles/edit_cache.dir

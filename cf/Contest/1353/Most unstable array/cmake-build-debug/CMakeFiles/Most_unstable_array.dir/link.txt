@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Most_unstable_array.dir/main.cpp.o  -o Most_unstable_array 

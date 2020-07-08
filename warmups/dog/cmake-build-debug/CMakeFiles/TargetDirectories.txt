@@ -1,0 +1,3 @@
+/home/wdjpng/soi/dog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/dog/cmake-build-debug/CMakeFiles/dog.dir
+/home/wdjpng/soi/dog/cmake-build-debug/CMakeFiles/edit_cache.dir

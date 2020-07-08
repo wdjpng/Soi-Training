@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Soi-Training/onetohundert/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Soi-Training/onetohundert/cmake-build-debug/CMakeFiles/onetohundert.dir
+/home/wdjpng/soi/Soi-Training/onetohundert/cmake-build-debug/CMakeFiles/edit_cache.dir

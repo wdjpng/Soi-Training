@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Hexadecimal_numbers.dir/main.cpp.o  -o Hexadecimal_numbers 

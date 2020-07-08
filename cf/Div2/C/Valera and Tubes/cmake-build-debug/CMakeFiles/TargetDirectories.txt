@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/C/Valera and Tubes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/C/Valera and Tubes/cmake-build-debug/CMakeFiles/Valera_and_Tubes.dir
+/home/wdjpng/soi/cf/Div2/C/Valera and Tubes/cmake-build-debug/CMakeFiles/edit_cache.dir

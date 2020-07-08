@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Old Finals/2017/Day 1/Xmasparty/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Old Finals/2017/Day 1/Xmasparty/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wdjpng/soi/Old Finals/2017/Day 1/Xmasparty/cmake-build-debug/CMakeFiles/Xmasparty.dir

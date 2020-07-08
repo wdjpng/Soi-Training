@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Prizes__more_Prizes.dir/main.cpp.o  -o Prizes__more_Prizes 

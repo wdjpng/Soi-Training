@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/C/Xenia and Weights/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/C/Xenia and Weights/cmake-build-debug/CMakeFiles/Xenia_and_Weights.dir
+/home/wdjpng/soi/cf/Div2/C/Xenia and Weights/cmake-build-debug/CMakeFiles/edit_cache.dir

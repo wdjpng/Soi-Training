@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/palindromesubseq.dir/main.cpp.o  -o palindromesubseq 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Magical_Calendar.dir/main.cpp.o  -o Magical_Calendar 

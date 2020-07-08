@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Given_Length_and_Sum_of_Digits.dir/main.cpp.o  -o Given_Length_and_Sum_of_Digits 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wdjpng/soi/workshop 2020/Advanced DP/cover/main.cpp
+iostream
+-
+vector
+-
+math.h
+-
+limits
+-
+algorithm
+-
+

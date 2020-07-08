@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Meteo.dir/main.cpp.o  -o Meteo 

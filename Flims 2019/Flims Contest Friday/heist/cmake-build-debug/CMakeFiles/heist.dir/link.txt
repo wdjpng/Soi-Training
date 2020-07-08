@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/heist.dir/main.cpp.o  -o heist 

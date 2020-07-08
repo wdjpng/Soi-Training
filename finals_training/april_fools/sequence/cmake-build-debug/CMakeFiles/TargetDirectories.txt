@@ -1,0 +1,3 @@
+/home/wdjpng/soi/finals_training/april_fools/sequence/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/finals_training/april_fools/sequence/cmake-build-debug/CMakeFiles/sequence.dir
+/home/wdjpng/soi/finals_training/april_fools/sequence/cmake-build-debug/CMakeFiles/edit_cache.dir

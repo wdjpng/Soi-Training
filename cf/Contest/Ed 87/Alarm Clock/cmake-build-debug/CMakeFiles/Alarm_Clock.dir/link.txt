@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Alarm_Clock.dir/main.cpp.o  -o Alarm_Clock 

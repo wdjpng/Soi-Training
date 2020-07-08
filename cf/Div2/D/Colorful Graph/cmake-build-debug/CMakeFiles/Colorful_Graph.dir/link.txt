@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Colorful_Graph.dir/main.cpp.o  -o Colorful_Graph 

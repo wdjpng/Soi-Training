@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/644/Buying shovels/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/644/Buying shovels/cmake-build-debug/CMakeFiles/Buying_shovels.dir
+/home/wdjpng/soi/cf/Contest/644/Buying shovels/cmake-build-debug/CMakeFiles/edit_cache.dir

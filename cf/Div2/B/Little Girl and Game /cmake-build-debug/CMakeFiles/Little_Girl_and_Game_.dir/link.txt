@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Little_Girl_and_Game_.dir/main.cpp.o  -o Little_Girl_and_Game_ 

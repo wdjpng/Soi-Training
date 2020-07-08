@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/645/The best vacation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/645/The best vacation/cmake-build-debug/CMakeFiles/The_best_vacation.dir
+/home/wdjpng/soi/cf/Contest/645/The best vacation/cmake-build-debug/CMakeFiles/edit_cache.dir

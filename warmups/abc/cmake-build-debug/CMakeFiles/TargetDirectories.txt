@@ -1,0 +1,3 @@
+/home/wdjpng/repos/Soi-Training/abc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/repos/Soi-Training/abc/cmake-build-debug/CMakeFiles/abc.dir
+/home/wdjpng/repos/Soi-Training/abc/cmake-build-debug/CMakeFiles/edit_cache.dir

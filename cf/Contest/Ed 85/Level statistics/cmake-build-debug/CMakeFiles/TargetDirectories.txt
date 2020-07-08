@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/Ed 85/Level statistics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/Ed 85/Level statistics/cmake-build-debug/CMakeFiles/Level_statistics.dir
+/home/wdjpng/soi/cf/Contest/Ed 85/Level statistics/cmake-build-debug/CMakeFiles/edit_cache.dir

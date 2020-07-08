@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/Ed 87/Alarm Clock/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/Ed 87/Alarm Clock/cmake-build-debug/CMakeFiles/Alarm_Clock.dir
+/home/wdjpng/soi/cf/Contest/Ed 87/Alarm Clock/cmake-build-debug/CMakeFiles/edit_cache.dir

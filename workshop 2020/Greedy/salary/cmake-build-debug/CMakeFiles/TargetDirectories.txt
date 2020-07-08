@@ -1,0 +1,3 @@
+/home/wdjpng/soi/workshop 2020/Greedy/salary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/workshop 2020/Greedy/salary/cmake-build-debug/CMakeFiles/salary.dir
+/home/wdjpng/soi/workshop 2020/Greedy/salary/cmake-build-debug/CMakeFiles/edit_cache.dir

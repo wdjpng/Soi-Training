@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/rainfall.dir/main.cpp.o  -o rainfall 

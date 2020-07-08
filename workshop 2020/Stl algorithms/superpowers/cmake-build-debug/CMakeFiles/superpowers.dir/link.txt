@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/superpowers.dir/main.cpp.o  -o superpowers 

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/B/lecture/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/B/lecture/cmake-build-debug/CMakeFiles/lecture.dir
+/home/wdjpng/soi/cf/Div2/B/lecture/cmake-build-debug/CMakeFiles/edit_cache.dir

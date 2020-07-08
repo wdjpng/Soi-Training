@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/treeindepset.dir/main.cpp.o  -o treeindepset 

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/C/Pocket Books/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/C/Pocket Books/cmake-build-debug/CMakeFiles/Pocket_Books.dir
+/home/wdjpng/soi/cf/Div2/C/Pocket Books/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/erasmus.dir/main.cpp.o  -o erasmus 

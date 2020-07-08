@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Anton_and_currency_you_all_know.dir/main.cpp.o  -o Anton_and_currency_you_all_know 

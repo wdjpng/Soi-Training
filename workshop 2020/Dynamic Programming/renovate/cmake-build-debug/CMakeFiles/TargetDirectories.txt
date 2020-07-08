@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Soi-Training/renovate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Soi-Training/renovate/cmake-build-debug/CMakeFiles/renovate.dir
+/home/wdjpng/soi/Soi-Training/renovate/cmake-build-debug/CMakeFiles/edit_cache.dir

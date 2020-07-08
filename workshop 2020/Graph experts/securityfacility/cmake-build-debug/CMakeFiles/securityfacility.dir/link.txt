@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/securityfacility.dir/main.cpp.o  -o securityfacility 

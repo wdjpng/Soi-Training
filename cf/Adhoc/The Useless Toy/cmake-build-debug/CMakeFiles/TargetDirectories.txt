@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Adhoc/The Useless Toy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Adhoc/The Useless Toy/cmake-build-debug/CMakeFiles/The_Useless_Toy.dir
+/home/wdjpng/soi/cf/Adhoc/The Useless Toy/cmake-build-debug/CMakeFiles/edit_cache.dir

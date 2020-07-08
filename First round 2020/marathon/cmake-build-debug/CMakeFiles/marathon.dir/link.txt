@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/marathon.dir/main.cpp.o  -o marathon 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/History.dir/main.cpp.o  -o History 

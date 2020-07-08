@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Ternary_String.dir/main.cpp.o  -o Ternary_String 

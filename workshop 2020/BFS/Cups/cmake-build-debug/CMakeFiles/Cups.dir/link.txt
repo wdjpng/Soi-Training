@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Cups.dir/main.cpp.o  -o Cups 

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/spoj/Aggressive cows/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/spoj/Aggressive cows/cmake-build-debug/CMakeFiles/Aggressive_cows.dir
+/home/wdjpng/soi/spoj/Aggressive cows/cmake-build-debug/CMakeFiles/edit_cache.dir

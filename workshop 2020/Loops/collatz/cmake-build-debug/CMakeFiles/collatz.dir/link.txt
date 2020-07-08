@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/collatz.dir/main.cpp.o  -o collatz 

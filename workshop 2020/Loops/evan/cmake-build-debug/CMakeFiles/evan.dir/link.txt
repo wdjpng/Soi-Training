@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/evan.dir/main.cpp.o  -o evan 

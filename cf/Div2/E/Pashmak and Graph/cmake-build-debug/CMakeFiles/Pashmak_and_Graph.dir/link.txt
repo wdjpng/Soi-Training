@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pashmak_and_Graph.dir/main.cpp.o  -o Pashmak_and_Graph 

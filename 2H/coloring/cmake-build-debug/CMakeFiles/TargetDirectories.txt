@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Soi-Training/coloring/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Soi-Training/coloring/cmake-build-debug/CMakeFiles/coloring.dir
+/home/wdjpng/soi/Soi-Training/coloring/cmake-build-debug/CMakeFiles/edit_cache.dir

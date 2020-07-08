@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cheeseeatingcompetition.dir/main.cpp.o  -o cheeseeatingcompetition 

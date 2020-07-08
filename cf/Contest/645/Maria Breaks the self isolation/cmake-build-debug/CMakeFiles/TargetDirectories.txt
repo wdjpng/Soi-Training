@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/645/Maria Breaks the self isolation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/645/Maria Breaks the self isolation/cmake-build-debug/CMakeFiles/Maria_Breaks_the_self_isolation.dir
+/home/wdjpng/soi/cf/Contest/645/Maria Breaks the self isolation/cmake-build-debug/CMakeFiles/edit_cache.dir

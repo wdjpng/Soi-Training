@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Roadside_Trees__Simplified_Editions_.dir/main.cpp.o  -o Roadside_Trees__Simplified_Editions_ 

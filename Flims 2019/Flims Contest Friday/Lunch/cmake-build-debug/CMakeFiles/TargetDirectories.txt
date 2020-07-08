@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Flims 2019/Flims Contest Friday/Lunch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Flims 2019/Flims Contest Friday/Lunch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wdjpng/soi/Flims 2019/Flims Contest Friday/Lunch/cmake-build-debug/CMakeFiles/Lunch.dir

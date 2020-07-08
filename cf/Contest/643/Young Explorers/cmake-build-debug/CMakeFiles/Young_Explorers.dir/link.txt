@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Young_Explorers.dir/main.cpp.o  -o Young_Explorers 

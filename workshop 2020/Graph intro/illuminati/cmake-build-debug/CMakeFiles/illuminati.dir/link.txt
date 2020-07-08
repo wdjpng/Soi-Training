@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/illuminati.dir/main.cpp.o  -o illuminati 

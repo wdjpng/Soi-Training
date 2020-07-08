@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lunch.dir/main.cpp.o  -o Lunch 

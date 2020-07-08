@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Road_to_1600.dir/main.cpp.o  -o Road_to_1600 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/skiingresort.dir/main.cpp.o  -o skiingresort 

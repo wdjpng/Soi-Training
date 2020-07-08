@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Level_statistics.dir/main.cpp.o  -o Level_statistics 

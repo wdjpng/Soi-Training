@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/643/Count triangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/643/Count triangles/cmake-build-debug/CMakeFiles/Count_triangles.dir
+/home/wdjpng/soi/cf/Contest/643/Count triangles/cmake-build-debug/CMakeFiles/edit_cache.dir

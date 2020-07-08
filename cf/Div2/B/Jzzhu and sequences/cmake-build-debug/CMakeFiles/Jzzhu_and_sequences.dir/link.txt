@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Jzzhu_and_sequences.dir/main.cpp.o  -o Jzzhu_and_sequences 

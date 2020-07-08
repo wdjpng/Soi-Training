@@ -1,0 +1,4 @@
+/home/wdjpng/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/193.6911.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/wdjpng/soi/finals_training/DP/numinversions
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/wdjpng/soi/finals_training/DP/numinversions/cmake-build-debug

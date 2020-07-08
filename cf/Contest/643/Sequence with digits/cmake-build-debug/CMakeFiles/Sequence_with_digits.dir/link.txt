@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Sequence_with_digits.dir/main.cpp.o  -o Sequence_with_digits 

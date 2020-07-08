@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Unbearable_controversy_of_being.dir/main.cpp.o  -o Unbearable_controversy_of_being 

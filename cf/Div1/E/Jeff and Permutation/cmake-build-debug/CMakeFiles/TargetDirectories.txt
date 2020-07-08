@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div1/E/Jeff and Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div1/E/Jeff and Permutation/cmake-build-debug/CMakeFiles/Jeff_and_Permutation.dir
+/home/wdjpng/soi/cf/Div1/E/Jeff and Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Polygon.dir/main.cpp.o  -o Polygon 

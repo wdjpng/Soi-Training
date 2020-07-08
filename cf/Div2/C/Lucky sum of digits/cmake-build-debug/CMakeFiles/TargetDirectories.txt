@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/C/Lucky sum of digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/C/Lucky sum of digits/cmake-build-debug/CMakeFiles/Lucky_sum_of_digits.dir
+/home/wdjpng/soi/cf/Div2/C/Lucky sum of digits/cmake-build-debug/CMakeFiles/edit_cache.dir

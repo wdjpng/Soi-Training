@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Park_lighting.dir/main.cpp.o  -o Park_lighting 

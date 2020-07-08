@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/antcolony.dir/main.cpp.o  -o antcolony 

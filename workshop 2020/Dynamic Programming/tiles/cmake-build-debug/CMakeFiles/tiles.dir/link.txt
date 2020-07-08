@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tiles.dir/main.cpp.o  -o tiles 

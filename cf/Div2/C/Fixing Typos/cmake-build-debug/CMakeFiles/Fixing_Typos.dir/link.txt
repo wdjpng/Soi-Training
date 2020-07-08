@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Fixing_Typos.dir/main.cpp.o  -o Fixing_Typos 

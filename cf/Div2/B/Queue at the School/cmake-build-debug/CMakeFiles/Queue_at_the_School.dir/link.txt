@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Queue_at_the_School.dir/main.cpp.o  -o Queue_at_the_School 

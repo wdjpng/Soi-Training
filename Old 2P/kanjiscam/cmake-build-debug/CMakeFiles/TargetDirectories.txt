@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Old 2P/kanjiscam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Old 2P/kanjiscam/cmake-build-debug/CMakeFiles/kanji.dir
+/home/wdjpng/soi/Old 2P/kanjiscam/cmake-build-debug/CMakeFiles/edit_cache.dir

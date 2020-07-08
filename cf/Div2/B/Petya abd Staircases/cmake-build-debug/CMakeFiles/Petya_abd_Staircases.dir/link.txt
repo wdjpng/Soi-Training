@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Petya_abd_Staircases.dir/main.cpp.o  -o Petya_abd_Staircases 

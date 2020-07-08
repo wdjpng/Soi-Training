@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/632/Prizes, more Prizes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/632/Prizes, more Prizes/cmake-build-debug/CMakeFiles/Prizes__more_Prizes.dir
+/home/wdjpng/soi/cf/Contest/632/Prizes, more Prizes/cmake-build-debug/CMakeFiles/edit_cache.dir

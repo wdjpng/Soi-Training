@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/numinversions.dir/main.cpp.o  -o numinversions 

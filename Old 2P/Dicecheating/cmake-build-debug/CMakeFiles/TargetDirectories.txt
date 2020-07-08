@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Camp/Training/Dicecheating/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Camp/Training/Dicecheating/cmake-build-debug/CMakeFiles/Dicecheating.dir
+/home/wdjpng/soi/Camp/Training/Dicecheating/cmake-build-debug/CMakeFiles/edit_cache.dir

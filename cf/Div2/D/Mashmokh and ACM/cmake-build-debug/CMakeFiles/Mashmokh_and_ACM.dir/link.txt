@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Mashmokh_and_ACM.dir/main.cpp.o  -o Mashmokh_and_ACM 

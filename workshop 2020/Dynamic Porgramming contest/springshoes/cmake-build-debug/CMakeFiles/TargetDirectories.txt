@@ -1,0 +1,3 @@
+/home/wdjpng/soi/workshop 2020/Dynamic Porgramming contest/springshoes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/workshop 2020/Dynamic Porgramming contest/springshoes/cmake-build-debug/CMakeFiles/springshoes.dir
+/home/wdjpng/soi/workshop 2020/Dynamic Porgramming contest/springshoes/cmake-build-debug/CMakeFiles/edit_cache.dir

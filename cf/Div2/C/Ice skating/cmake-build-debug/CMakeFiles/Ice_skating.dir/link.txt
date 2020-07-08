@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Ice_skating.dir/main.cpp.o  -o Ice_skating 

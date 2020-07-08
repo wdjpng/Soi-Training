@@ -1,0 +1,3 @@
+/home/wdjpng/soi/finals_training/singapore/Relaymarathon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/finals_training/singapore/Relaymarathon/cmake-build-debug/CMakeFiles/Relaymarathon.dir
+/home/wdjpng/soi/finals_training/singapore/Relaymarathon/cmake-build-debug/CMakeFiles/edit_cache.dir

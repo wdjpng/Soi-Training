@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/C/Table Decorations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/C/Table Decorations/cmake-build-debug/CMakeFiles/Table_Decorations.dir
+/home/wdjpng/soi/cf/Div2/C/Table Decorations/cmake-build-debug/CMakeFiles/edit_cache.dir

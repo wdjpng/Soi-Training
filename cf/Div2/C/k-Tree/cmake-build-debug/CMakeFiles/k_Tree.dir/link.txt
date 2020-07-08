@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/k_Tree.dir/main.cpp.o  -o k_Tree 

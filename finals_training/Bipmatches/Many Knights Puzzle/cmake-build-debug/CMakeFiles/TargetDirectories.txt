@@ -1,0 +1,3 @@
+/home/wdjpng/soi/finals_training/Bipmatches/Many Knights Puzzle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/finals_training/Bipmatches/Many Knights Puzzle/cmake-build-debug/CMakeFiles/Many_Knights_Puzzle.dir
+/home/wdjpng/soi/finals_training/Bipmatches/Many Knights Puzzle/cmake-build-debug/CMakeFiles/edit_cache.dir

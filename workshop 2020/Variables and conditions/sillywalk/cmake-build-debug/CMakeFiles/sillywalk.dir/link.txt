@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sillywalk.dir/main.cpp.o  -o sillywalk 

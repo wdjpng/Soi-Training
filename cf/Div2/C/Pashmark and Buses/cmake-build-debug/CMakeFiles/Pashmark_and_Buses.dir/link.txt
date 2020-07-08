@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pashmark_and_Buses.dir/main.cpp.o  -o Pashmark_and_Buses 

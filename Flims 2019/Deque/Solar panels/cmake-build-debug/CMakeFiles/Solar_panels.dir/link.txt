@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Solar_panels.dir/main.cpp.o  -o Solar_panels 

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/C/Gargari and Bishops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/C/Gargari and Bishops/cmake-build-debug/CMakeFiles/Gargari_and_Bishops.dir
+/home/wdjpng/soi/cf/Div2/C/Gargari and Bishops/cmake-build-debug/CMakeFiles/edit_cache.dir

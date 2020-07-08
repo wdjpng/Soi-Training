@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/B/Anton and currency you all know/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/B/Anton and currency you all know/cmake-build-debug/CMakeFiles/Anton_and_currency_you_all_know.dir
+/home/wdjpng/soi/cf/Div2/B/Anton and currency you all know/cmake-build-debug/CMakeFiles/edit_cache.dir

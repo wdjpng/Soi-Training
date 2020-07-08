@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/T_Primes.dir/main.cpp.o  -o T_Primes 

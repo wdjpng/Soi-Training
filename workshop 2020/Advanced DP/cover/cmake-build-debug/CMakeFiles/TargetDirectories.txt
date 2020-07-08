@@ -1,0 +1,3 @@
+/home/wdjpng/soi/workshop 2020/Advanced DP/cover/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/workshop 2020/Advanced DP/cover/cmake-build-debug/CMakeFiles/cover.dir
+/home/wdjpng/soi/workshop 2020/Advanced DP/cover/cmake-build-debug/CMakeFiles/edit_cache.dir

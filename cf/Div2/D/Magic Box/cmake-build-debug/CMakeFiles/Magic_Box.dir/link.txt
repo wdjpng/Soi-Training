@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Magic_Box.dir/main.cpp.o  -o Magic_Box 

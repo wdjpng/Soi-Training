@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Xmasparty.dir/main.cpp.o  -o Xmasparty 

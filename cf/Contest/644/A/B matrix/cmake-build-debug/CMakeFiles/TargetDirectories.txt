@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Contest/644/A/B matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Contest/644/A/B matrix/cmake-build-debug/CMakeFiles/B_matrix.dir
+/home/wdjpng/soi/cf/Contest/644/A/B matrix/cmake-build-debug/CMakeFiles/edit_cache.dir

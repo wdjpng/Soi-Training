@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mensaexplicit.dir/main.cpp.o  -o mensaexplicit 

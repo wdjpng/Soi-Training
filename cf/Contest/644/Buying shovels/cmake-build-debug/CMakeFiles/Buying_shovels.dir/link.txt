@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Buying_shovels.dir/main.cpp.o  -o Buying_shovels 

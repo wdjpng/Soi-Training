@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Checkposts.dir/main.cpp.o  -o Checkposts 

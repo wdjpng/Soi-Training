@@ -1,0 +1,3 @@
+/home/wdjpng/soi/Soi-Training/roadlighting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/Soi-Training/roadlighting/cmake-build-debug/CMakeFiles/roadlighting.dir
+/home/wdjpng/soi/Soi-Training/roadlighting/cmake-build-debug/CMakeFiles/edit_cache.dir

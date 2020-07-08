@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Jeff_and_Permutation.dir/main.cpp.o  -o Jeff_and_Permutation 

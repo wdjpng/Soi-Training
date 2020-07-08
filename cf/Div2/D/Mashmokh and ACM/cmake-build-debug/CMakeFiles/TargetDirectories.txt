@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/D/Mashmokh and ACM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/D/Mashmokh and ACM/cmake-build-debug/CMakeFiles/Mashmokh_and_ACM.dir
+/home/wdjpng/soi/cf/Div2/D/Mashmokh and ACM/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Lucky_sum_of_digits.dir/main.cpp.o  -o Lucky_sum_of_digits 

@@ -1,0 +1,3 @@
+/home/wdjpng/soi/cf/Div2/C/Bear and Prime numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wdjpng/soi/cf/Div2/C/Bear and Prime numbers/cmake-build-debug/CMakeFiles/Bear_and_Prime_numbers.dir
+/home/wdjpng/soi/cf/Div2/C/Bear and Prime numbers/cmake-build-debug/CMakeFiles/edit_cache.dir

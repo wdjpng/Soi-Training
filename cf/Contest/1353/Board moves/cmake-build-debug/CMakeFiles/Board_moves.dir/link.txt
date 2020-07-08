@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Board_moves.dir/main.cpp.o  -o Board_moves 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Schnitzeljagd.dir/main.cpp.o  -o Schnitzeljagd 

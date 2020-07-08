@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Hamming_chocolate.dir/main.cpp.o  -o Hamming_chocolate 

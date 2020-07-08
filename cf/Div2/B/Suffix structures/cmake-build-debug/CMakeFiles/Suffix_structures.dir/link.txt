@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Suffix_structures.dir/main.cpp.o  -o Suffix_structures 

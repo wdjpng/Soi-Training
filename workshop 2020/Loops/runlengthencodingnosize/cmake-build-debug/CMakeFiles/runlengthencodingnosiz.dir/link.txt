@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/runlengthencodingnosiz.dir/main.cpp.o  -o runlengthencodingnosiz 
