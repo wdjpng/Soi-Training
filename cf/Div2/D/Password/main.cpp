@@ -18,7 +18,7 @@ signed main() {
     int curP=1;
 
     vector<pair<int, int>>w;
-    for (int i = 0; i < n-1; ++i) {
+    for (int i = 0; i < n-2; ++i) {
         a+=curP*str[i];
         curP*=P;
         curP%=MOD;
@@ -27,21 +27,39 @@ signed main() {
         b%=MOD;
 
         if(a==b){
-            w.push_back(make_pair(i+1,0));
+            w.push_back(make_pair(i+1,b));
         }
     }
 
     int start=-1, end=w.size();
-    string newStr = str.substr(1,n-2);
+
     for (int i = 0; i < 25; ++i) {
         int cur = (start+end)/2;
         if(cur>=w.size()){ end=cur; continue;}
-        auto a = newStr.find(str.substr(0, w[cur].first));
-        if(a>=newStr.size()){
-            end=cur;
-        } else{
-            start=cur;
+        int hash=0;
+        int pow=1;
+        int j;
+        for (j = n-1-w[cur].first; j < n-1; ++j) {
+            hash+=(str[j]*pow)%MOD;
+            hash%=MOD;
+            if(j==n-2){ break;}
+            pow*=P;
+            pow%=MOD;
         }
+        if(hash==w[cur].second){
+            start=cur;
+            continue;
+        }
+        for (j = n-2-w[cur].first; j > 0; j--) {
+            hash=(hash+MOD*str[j+w[cur].first]-pow*str[j+w[cur].first])%MOD;
+            hash=(hash*P+str[j])%MOD;
+            if(hash==w[cur].second){
+                start=cur;
+                break;
+            }
+        }
+        if(start==cur){ continue;}
+        end=cur;
     }
 
     if (start == -1) {
