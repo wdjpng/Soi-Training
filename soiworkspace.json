@@ -1,0 +1,1 @@
+{"workspace":{"templateVersion":"0.8.0"},"settings":{"compilerPath":"/usr/bin/c++","debuggerPath":"/usr/bin/gdb","cppHeaderPath":"","soiHeaderPath":"/home/rolandmuenzel/.config/Code/User/globalStorage/swissolyinfo.soicode/bundle/soiheaders/bundle/soiheader","flags":"-Wall -Wextra -std=c++17 -g3 -ggdb3 -fsanitize=address,undefined -D_GLIBCXX_DEBUG","useBundledSoiHeaders":true}}
